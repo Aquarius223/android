@@ -26,7 +26,7 @@ cd ~/exTHmUI
 ### Initialize the exTHmUI source repository
 
 ```shell
-repo init -u https://github.com/exthmui/android.git -b exthm-10
+repo init -u https://github.com/exthmui/android.git -b exthm-11
 ```
 
 ### Download the source code
